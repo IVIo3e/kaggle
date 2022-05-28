@@ -1,4 +1,4 @@
-# kaggle
+# Kaggle
 
 ## New York City taxi trip duration
 
